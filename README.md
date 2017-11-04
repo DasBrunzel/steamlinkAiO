@@ -1,15 +1,16 @@
-Sammlung von Steam Link Addons 
-Zusammen gestellt von DasBrunzel www.gamblerpack.de
+## Sammlung von Steam Link Addons 
+### Zusammen gestellt von DasBrunzel www.gamblerpack.de
 
 Anleitung:
-  USB Stick mit FAT32 formatieren
-  Den Ordner "steamlink" auf den USB Stick kopieren
-  Steam Link Stromkabel entfernen
-  USB Stick in den Steam Link stecken
-  Steam Link starten
-  Nun werden die Apps installiert (Das kann etwas dauern)
-  Installion abgeschlossen
-  Steam Link auschalten und USB Stick entfernen
+  1. USB Stick mit FAT32 formatieren
+1.   Den Ordner "steamlink" auf den USB Stick kopieren
+1.   Steam Link Stromkabel entfernen
+1.   USB Stick in den Steam Link stecken
+1.   Steam Link starten
+1.   Nun werden die Apps installiert (Das kann etwas dauern)
+1.   Installion abgeschlossen
+1.   Steam Link auschalten und USB Stick entfernen
+
 
 
 Apps:
@@ -39,6 +40,3 @@ Extra:
   FERTIG!
   
   Viel spaß :)
-  
-  
-  
