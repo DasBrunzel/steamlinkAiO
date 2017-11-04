@@ -15,6 +15,7 @@ Anleitung:
 
 Apps:
   USBMount
+  
   https://steamcommunity.com/app/353380/discussions/1/152393186490496699/
   _USB Stick in den ausgeschalteten Steam Link stecken, anschalten und USBMount starten. Bildschirm wird kurz schwarz und USB Stick ist
   gemountet_
