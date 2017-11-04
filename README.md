@@ -16,8 +16,8 @@ Anleitung:
 Apps:
   USBMount
   https://steamcommunity.com/app/353380/discussions/1/152393186490496699/
-  USB Stick in den ausgeschalteten Steam Link stecken, anschalten und USBMount starten. Bildschirm wird kurz schwarz und USB Stick ist
-  gemountet
+  _USB Stick in den ausgeschalteten Steam Link stecken, anschalten und USBMount starten. Bildschirm wird kurz schwarz und USB Stick ist
+  gemountet_
 
   Kodi for Steam Link
   https://github.com/garbear/kodi-steamlink
