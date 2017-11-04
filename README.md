@@ -14,6 +14,7 @@ Anleitung:
 
 
 Apps:
+
   USBMount
   
   https://steamcommunity.com/app/353380/discussions/1/152393186490496699/
@@ -21,17 +22,21 @@ Apps:
   gemountet_
 
   Kodi for Steam Link
+  
   https://github.com/garbear/kodi-steamlink
   
   RetroArch for the Steam Link
+  
   https://www.reddit.com/r/Steam_Link/comments/5sofyh/release_retroarch_for_the_steam_link/?st=j9lsm3yu&sh=8889a007
   
   Prboom-Plus
+  
   https://steamcommunity.com/app/353380/discussions/1/152393186482405006/
   
   
 Extra:
   SSH zugriff
+  
   https://github.com/ValveSoftware/steamlink-sdk
   user: root Passwort: steamlink123
 
